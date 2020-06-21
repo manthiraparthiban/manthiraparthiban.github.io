@@ -83,16 +83,6 @@ input, select, textarea {
 	@-ms-viewport {
 		width: device-width;
 	}
-	
-	@media screen and (max-width: 736px) {
-
-			#header .logo {
-				width: 5.4rem;
-				height: 5.5rem;
-			}
-
-		}
-		
 
 	@media screen and (max-width: 480px) {
 
@@ -1459,9 +1449,9 @@ input, select, textarea {
 			#header .logo {
 				width: 5.4rem;
 				height: 5.5rem;
-				line-height: 5.5rem;
+				/* line-height: 5.5rem;
 				border: solid 1px #ffffff;
-				border-radius: 100px;
+				border-radius: 100px; */
 			}
 
 				#header .logo .icon:before {
@@ -1677,3 +1667,4 @@ input, select, textarea {
 		body.is-preload #footer {
 			opacity: 0;
 		}
+
