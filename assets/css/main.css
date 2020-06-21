@@ -83,6 +83,16 @@ input, select, textarea {
 	@-ms-viewport {
 		width: device-width;
 	}
+	
+	@media screen and (max-width: 736px) {
+
+			#header .logo {
+				width: 5.5rem;
+				height: 5.5rem;
+			}
+
+		}
+		
 
 	@media screen and (max-width: 480px) {
 
