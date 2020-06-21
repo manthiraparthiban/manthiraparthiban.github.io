@@ -1447,10 +1447,10 @@ input, select, textarea {
 				}
 
 			#header .logo {
-				width: 5.4rem;
+				width: 5.5rem;
 				height: 5.5rem;
-				/* line-height: 5.5rem;
-				border: solid 1px #ffffff;
+				line-height: 5.5rem;
+				/*border: solid 1px #ffffff;
 				border-radius: 100px; */
 			}
 
@@ -1667,4 +1667,3 @@ input, select, textarea {
 		body.is-preload #footer {
 			opacity: 0;
 		}
-
